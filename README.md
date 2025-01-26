@@ -1,6 +1,5 @@
 
 I have also attached the images of the project and its output in the repository. Please review them for better understanding.
-Image location : public folder -> output images folder
 
 Here's a well-structured and formatted version of your README content:
 
@@ -56,4 +55,3 @@ web-vitals: "^4.2.4"
 Note: The versions listed above may vary, so you can install the latest versions if needed.
 
 I have also attached the images of the project and its output in the repository. Please review them for better understanding.
-Image location : public folder -> output images folder
